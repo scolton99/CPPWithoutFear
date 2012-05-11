@@ -1,0 +1,3 @@
+My name is Spencer Colton
+I am 12 Years old
+and I wrote this C++ program all by myself.
